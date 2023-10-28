@@ -1,0 +1,15 @@
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\bin\Debug\net6.0\FundamentosII.exe
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\bin\Debug\net6.0\FundamentosII.deps.json
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\bin\Debug\net6.0\FundamentosII.runtimeconfig.json
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\bin\Debug\net6.0\FundamentosII.dll
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\bin\Debug\net6.0\FundamentosII.pdb
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.dll
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\obj\Debug\net6.0\refint\FundamentosII.dll
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.pdb
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Escritorio\CodingDojo\C#\FundamentosII\obj\Debug\net6.0\ref\FundamentosII.dll
